@@ -144,3 +144,10 @@ For bug reporting/requests you can report issues here on github, or via feedback
 ## Finally
 
 Enjoy!
+  
+{
+  "name": "My extension",
+  ...
+  "update_url": "https://myhost.com/mytestextension/updates.xml",
+  ...
+}
